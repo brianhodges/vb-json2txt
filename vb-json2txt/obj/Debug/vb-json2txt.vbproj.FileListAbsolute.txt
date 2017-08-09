@@ -1,0 +1,12 @@
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-json2txt\vb-json2txt\bin\Debug\vb-json2txt.exe.config
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-json2txt\vb-json2txt\bin\Debug\vb-json2txt.exe
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-json2txt\vb-json2txt\bin\Debug\vb-json2txt.pdb
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-json2txt\vb-json2txt\bin\Debug\vb-json2txt.xml
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-json2txt\vb-json2txt\bin\Debug\Newtonsoft.Json.dll
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-json2txt\vb-json2txt\bin\Debug\Newtonsoft.Json.xml
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-json2txt\vb-json2txt\obj\Debug\vb-json2txt.vbprojResolveAssemblyReference.cache
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-json2txt\vb-json2txt\obj\Debug\vb_json2txt.Resources.resources
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-json2txt\vb-json2txt\obj\Debug\vb-json2txt.vbproj.GenerateResource.Cache
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-json2txt\vb-json2txt\obj\Debug\vb-json2txt.exe
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-json2txt\vb-json2txt\obj\Debug\vb-json2txt.xml
+c:\users\bhodges\documents\visual studio 2013\Projects\vb-json2txt\vb-json2txt\obj\Debug\vb-json2txt.pdb
